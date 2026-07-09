@@ -2,12 +2,21 @@
 
 Original source/remix parent: https://github.com/agomezgar/joystickBox
 
-This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
+Mirrored source snapshot: `7` files, 0.68 MiB, under `source/upstream/`.
 
-## Code, firmware, and configuration
+## Download
 
-- None listed for this package.
+Use GitHub's **Code → Download ZIP** button, or clone the repository. The mirrored software/PCB/source files are included under `source/upstream/`.
 
-## PCB and electronics manufacturing assets
+## Software / firmware / config files
 
-- None listed for this package.
+- None detected.
+
+## PCB / electronics manufacturing files
+
+- None detected.
+
+## Upstream docs
+
+- `source/upstream/FreeCAD/readme.md`
+- `source/upstream/STL/readme.md`
