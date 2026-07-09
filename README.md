@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776633-joystickbox-arduino-controller
 - Original source/remix parent: https://github.com/agomezgar/joystickBox
 - Maker Portal slug: `joystickbox-arduino-controller`
 
