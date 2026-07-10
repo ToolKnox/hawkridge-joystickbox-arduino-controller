@@ -1,6 +1,14 @@
 # JoystickBox Arduino Controller
 
 GPL-3.0 3D printable box for Arduino Nano shield, Bluetooth controller, and joystick; small accessory candidate for robot-control ecosystem.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -52,4 +60,3 @@ https://github.com/agomezgar/joystickBox
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-
