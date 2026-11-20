@@ -16,7 +16,7 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
 endobj
 6 0 obj
-<< /Length 7927 >>
+<< /Length 6593 >>
 stream
 0.0400 0.0400 0.0400 rg
 39.00 447.28 763.89 118.00 re f
@@ -51,7 +51,7 @@ BT /F1 8.00 Tf 117.00 534.28 Td (B I L L   O F   M A T E R I A L S) Tj ET
 1.0000 1.0000 1.0000 rg
 BT /F1 21.00 Tf 117.00 507.28 Td (JoystickBox Arduino Controller) Tj ET
 0.8400 0.8600 0.8800 rg
-BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    4 items) Tj ET
+BT /F1 8.50 Tf 117.00 467.28 Td (Rev. 2026-07-09    3 items) Tj ET
 0.9500 0.9600 0.9800 rg
 0.8300 0.8600 0.9000 RG
 0.50 w
@@ -204,44 +204,6 @@ BT /F1 8.40 Tf 570.90 250.78 Td (Amazon Link) Tj ET
 0.45 w 570.90 249.28 m 617.10 249.28 l S
 0.3000 0.3000 0.3000 rg
 BT /F3 8.00 Tf 656.00 257.28 Td (Repo description mentions joystick.) Tj ET
-0.0800 0.1200 0.1800 rg
-39.00 219.28 763.89 18.00 re f
-1.0000 1.0000 1.0000 rg
-BT /F2 9.50 Tf 49.00 224.78 Td (PRINTED PARTS) Tj ET
-0.7200 0.7600 0.8200 rg
-BT /F1 8.00 Tf 329.00 224.78 Td (1 item) Tj ET
-1.0000 1.0000 1.0000 rg
-0.6200 0.6500 0.6900 RG
-0.45 w
-39.00 164.28 763.89 55.00 re B
-0.6200 0.6500 0.6900 RG
-0.40 w 67.00 164.28 m 67.00 219.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 389.00 164.28 m 389.00 219.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 429.00 164.28 m 429.00 219.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 539.00 164.28 m 539.00 219.28 l S
-0.6200 0.6500 0.6900 RG
-0.40 w 649.00 164.28 m 649.00 219.28 l S
-0.4800 0.5000 0.5300 rg
-BT /F1 8.50 Tf 48.75 188.78 Td (>>) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F1 9.00 Tf 74.00 205.28 Td (Printed enclosure parts) Tj ET
-0.0800 0.0900 0.1100 rg
-BT /F2 9.00 Tf 406.75 188.78 Td (1) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 481.75 188.78 Td (-) Tj ET
-0.7000 0.7000 0.7000 rg
-BT /F1 9.00 Tf 591.75 188.78 Td (-) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 206.28 Td (Reference only / printable-source) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 196.28 Td (row; excluded from purchase-link) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 186.28 Td (coverage before release. Two STL) Tj ET
-0.3000 0.3000 0.3000 rg
-BT /F3 8.00 Tf 656.00 176.28 Td (files present.) Tj ET
 0.5500 0.5500 0.5500 rg
 BT /F1 8.00 Tf 784.89 18.00 Td (1/1) Tj ET
 endstream
@@ -259,7 +221,7 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [434.00 323.28 534.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfYYkmGnr5gYzOAfvQlsD0aOZa3eQ8TzmY9MInmwix0qStO9Mo0GcdspS8bCeqSeENnWHwcMQIe2QsV3oslKkYZsVE9ASsukao8bvq6W42jsQw9UCeRfjApcj0I7IKITHM2a4yQIM756Gu2bYUn9qNLDgAXIYGweXAmHJi4UpZMeklOhFjw8nG034CROq31OhHXE6Mola5HZ788tipA99YSVWEpdzC9tLxV9eHY108IPBRNPxLXgTtdSNwLbeHUefIIhmawGUEth4V4wkeADXQXNy0WZbl793PUr7TWCIRoDxIYC0kYWzJi1wX2J1D9k3rx3WrStIpMu4tA75PzjmjirU8A4cB3t9St2MS6PWGwQlaBPpGqGKlsBHzvAIJDtLjU83gzB4t0i9MkkbF6l07XAaTH0H93fG0q5q825hpVuW1rj2nRaAwX103MLhmNcrDdbEfmNjNbI9hZdk9J7YOzdWxFVVEUfXZm4so2vuiYBrq7EZaeReqqWI54zy7AepzpiqX85k1cKWpekCam5u0pR2jkqsFAcZvRjmBdLKTLS1VeL5ZBI8rwiMgayeKG0PeWLW4poUKaA1raNc49rrxYslLV4vnagYOHXFuiBnmvdqWElrknwNXiwcs60A1SOQXfwrRdHvkrCPaIYtqnyUwDPgmrHkiIWVROsBrRSXYxyapGAJx63) >> >>
 endobj
 11 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 323.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/wPdw) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 323.28 644.00 352.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/srwPptp) >> >>
 endobj
 12 0 obj
 << /Type /Annot /Subtype /Link /Rect [434.00 290.28 534.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfVm2WMLmkWP9aofwgFrQTAXkUhDTYxn3AKK8fQkqfsL0BkdAXGCVL11Crde2jNWKayf7OMXNnVwRT3Zg669hkzXrHgpgxDaSSRgk48yugY0eQVf5gurjYRDsPojdwfpShcV9oKzzRCwEIKa6rLBjrYvuApReliP9HO9hVfTukOaxQFaw1tFJcVrXZpDopnc8DjVSkQr69XrAHvgt7U5AcOzpwQK0JOC6kdOc3QvgGfsADRXHFIdF8PPxQwzgLCBHwT2vB0AQ6rcKW7Ri9kpPHD0YtE79EtCeLdSy5xbxesawMaqaQv4q4c8jIgeQ8U9Yqzqiq0nwpGZ2IwNMKQlDRbz3tgLtOlrqK9Slu03XnwTl6AlLZFzqoKayrpPTWUKfmFb46BlVzNY3vQifnORpDOI7xW3DdS8T6QcKM9QJorJVpVSBMoriKwc8dG4Isz8bnvmOFEM3SPfkdrwFmTs49XMI6hU5gKintJSfQmaDXnRYNB91G0h1Dp8db4OISoOXKUoOmQM4nANkp97Ft5Efd6vXYotgQIKa8DMw1iREgA3Abzq8bFZx6QE5bW9nuAJPnMwJTxA60N2NFZSafkSazSlJ3j9JJQisc6ifKuGwinsnfV8PBGwXihNu7PeS1ZwhJYfJLGGWzTTPUgJSyqGu2AUAzycP0MNKolqQKzM4tszUuuYabrd) >> >>
@@ -268,10 +230,10 @@ endobj
 << /Type /Annot /Subtype /Link /Rect [544.00 290.28 644.00 319.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/v3jAwr) >> >>
 endobj
 14 0 obj
-<< /Type /Annot /Subtype /Link /Rect [434.00 239.28 534.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVkNdlFeQuoIZcqEZIhXMmUzyCIjxfURL6rG23hNEXV1SkYtUEZVi4LLRH4znuHkGL2zGAYuTc0tzFS66CFj006D7QCcKPyCTsTuG5SKLtHBbdwxVnAQAJD7nWDruXW2pp3RfRAstauSmrtQI0zROmsbKBWNW3fpaxIJ3H8Z1Tn3ZtTuWIDwXZGLEMqkcrKzbZw6HLTHKy0l3kJEGqrRqfZK99LBiI6rLHc5t8H4kgEbTmy45Tjtoo7JDPMiPKFwlVu3rTZJkA52dZseOjABsjmyONsh8cjH7Kc8v2uqQHmovxRgqHg1mb36r1nncYUQDPvPPaaHbPy8ofIwhcletnIPiNo1lbWSaPIQw9qnKa6O5JEDuZNrOikmtf8pJhwNv6kCDC2Ay3xGQsQHgDwwk7WroX8FD1KWAaAWkGiP50uJgzWUDVapwzsmvbcd1g27zQbbKAeXr1oTHJE6Hpw3BIfiEFEPNh9RzCHMzdkYE98OlVIfL1X8ut8bskER67Ch97J8aez6V1f6YNyv9WTTkdva1EpsYHzmjEweq1C2a5vittgE3ZBEZrAq2pDb6THzQd9hEMH54XZAwuy7IHFzoRQ6IHOafsXmmz9hy0ePrnMkGLPb0So0Tch30Ps5cG3N74VIanUwHFWV3eXcHdIACgiKCAwEEqr5DwKHsPNuRPD225YtVFT9ITBWD8liHPEQq3zesxtsM0zqIln9) >> >>
+<< /Type /Annot /Subtype /Link /Rect [434.00 239.28 534.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://s.click.aliexpress.com/s/NdpwztbAIgDMmxGbP8fFks7yUFfsHjzlImSYmA68h7xlMRgzueFsRgokQ9f9hcpVKttxtQE2VzIoqkXJXrpOr6uR3zv7mP4CDO9CddoFf4t0QE5DXPy8Pgjhz4irfQSEjEGUmy5yF3A5gJ9h3NYjLMgqIMqa3zcpq5E2BC3W5EbV40Dm9buQxWpZzw1lbX8Zm2kZtNIa4KyDieNjsH7IU6Yv8StELKVvT9r4eFAaXPGhwHsgaDqdNcmY116r3GC2YvsOopeiiZPhJrV0cwgOQDSkW93v7gVKDqPkXyZF1oSWa6wSAOeznMFVlVZbw3FPyeeFwszVEvgjDdDRa3WUie2rvYIDzeoWrhE2PZT1ywCDblIfAUcbS3dET8eGK7XrRCbVLq4YR5Sy9Jo0rW28YoYEFhGRxrK2iRVpcfXmnmLzcsXAxg64h6AJgQm7TaToJDLFuEyY8R92qtfuM6kQ9VAsSawOG41M70WprY0Ax3lyg19RRVkso5uyHQrXUBe2nl4nkj2enmrexZtzCiM8LG8J9zAFQa5i2Fgcqfbtnnsv7I8FexZ2mQnpE6gFMQWt1UKkFzVhpAfE067oYVrdeJhTheyojctM6VGuLbkeMH4mdFbv8xJeHRUa7sqOWAiTYAE1ngrPUj0U5toTmM3TvPu8pP6TZ6NVElSIWZx3lc7DWvAScdGfgfHVDG9pxctegNqEuYkXtXSdg59l2cDwa4TjwgCqA3qDX5suHF11oOVXpomK4mhpUPR9P1K45MmJ5q6ZMrZeRSGGzWKh7PYBiDBfZnLryrHRmVvlPur3jp1efzFQyr3AuTTBWQ18gtTEbvBRjyt8ywbb5B2GYayw8IBL8qjaLhxnXeh5DnS4CFkkeIisYX4IxmBmJlGQCi6ih6v2sfDpJyKiZmAq2HibNOfJErFyyiU0p2e1ofYarlTZNnnU22yuWbGOwlXgEp53r33qrOY7diV9rXJ7taQ10otx0jdcyEBFW5VvNVQQxefuB) >> >>
 endobj
 15 0 obj
-<< /Type /Annot /Subtype /Link /Rect [544.00 239.28 644.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/dKUaKI) >> >>
+<< /Type /Annot /Subtype /Link /Rect [544.00 239.28 644.00 268.28] /Border [0 0 0] /A << /S /URI /URI (https://geni.us/CwsO) >> >>
 endobj
 16 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 841.89 595.28] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Annots [7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R] /Contents 6 0 R >>
@@ -285,18 +247,18 @@ xref
 0000000192 00000 n 
 0000000267 00000 n 
 0000000345 00000 n 
-0000008324 00000 n 
-0000008520 00000 n 
-0000008687 00000 n 
-0000008854 00000 n 
-0000010019 00000 n 
-0000010166 00000 n 
-0000011331 00000 n 
-0000011480 00000 n 
-0000012645 00000 n 
-0000012794 00000 n 
+0000006990 00000 n 
+0000007186 00000 n 
+0000007353 00000 n 
+0000007520 00000 n 
+0000008685 00000 n 
+0000008835 00000 n 
+0000010000 00000 n 
+0000010149 00000 n 
+0000011314 00000 n 
+0000011461 00000 n 
 trailer
 << /Size 17 /Root 1 0 R >>
 startxref
-13017
+11684
 %%EOF
